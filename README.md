@@ -9,6 +9,7 @@ Este projeto utiliza o microcontrolador **PIC18F4550** para controlar o volume p
 - No nível de **100%**, o display mostra **"Volume Máximo"**.
 
 O código foi escrito em **MikroC for PIC** e o arquivo `.hex` foi testado usando o software **PICSimLab**.
+O código completo  feito está disponível no arquivo **ex1.c**.
 
 ---
 
@@ -23,3 +24,4 @@ This project uses the **PIC18F4550** microcontroller to control the volume via a
 - At **100%**, the display shows **"Maximum Volume"**.
 
 The code was written in **MikroC for PIC**, and the `.hex` file was tested using the **PICSimLab** software.
+The complete code is available in the file **ex1.c**.
