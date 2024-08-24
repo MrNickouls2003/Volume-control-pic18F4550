@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"C:\Users\nicol\OneDrive\Área de Trabalho\Avaliacao_NicolasAugustoMontovani\Avaliacao_NicolasAugustoMontovani\projeto_1\ex1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\nicol\OneDrive\Área de Trabalho\Avaliacao_NicolasAugustoMontovani\Avaliacao_NicolasAugustoMontovani\projeto_1\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "ex1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ex1.c
+diagnostics: 53	123	Compiled Successfully	ex1.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RAM (bytes): 67 (3%)  Free RAM (bytes): 1960 (97%)	Used RAM (bytes): 67 (3%)  Free RAM (bytes): 1960 (97%)
+hint: 0	1144	Used ROM (bytes): 2114 (6%)  Free ROM (bytes): 30654 (94%)	Used ROM (bytes): 2114 (6%)  Free ROM (bytes): 30654 (94%)
+diagnostics: 0	125	Project Linked Successfully	ex1.mcppi
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'ex1.mcppi' completed: 422 ms	 
+diagnostics: 0	103	Finished successfully: 23 ago 2024, 21:56:20	ex1.mcppi
